@@ -5,3 +5,108 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1598453681674	Marionette	INFO	Listening on port 60127
 1598453682199	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598454215920	geckodriver	INFO	Listening on 127.0.0.1:64467
+1598454218966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofileDBDA7l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598454226251	Marionette	INFO	Listening on port 64475
+1598454226416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598454305577	geckodriver	INFO	Listening on 127.0.0.1:64573
+1598454308614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofileDay40p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598454313742	Marionette	INFO	Listening on port 64584
+1598454313921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2120: TypeError: document.querySelector(...) is null
+1598454408571	geckodriver	INFO	Listening on 127.0.0.1:64700
+1598454411602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofilejKffN8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598454417951	Marionette	INFO	Listening on port 64710
+1598454418046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598454634450	geckodriver	INFO	Listening on 127.0.0.1:64834
+1598454641551	geckodriver	INFO	Listening on 127.0.0.1:64841
+1598454644623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofilePJHCoQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598454655724	Marionette	INFO	Listening on port 64850
+1598454655787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598454736197	geckodriver	INFO	Listening on 127.0.0.1:64954
+1598454739231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofileY6Qxai"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598454746089	Marionette	INFO	Listening on port 64962
+1598454746139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598455098184	geckodriver	INFO	Listening on 127.0.0.1:65157
+1598455101238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofileigiSQM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598455108380	Marionette	INFO	Listening on port 65165
+1598455108669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598455196278	geckodriver	INFO	Listening on 127.0.0.1:65257
+1598455199303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofilePz0twa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598455206401	Marionette	INFO	Listening on port 65265
+1598455206750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598455453249	geckodriver	INFO	Listening on 127.0.0.1:65392
+1598455456291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofileJicYzQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598455462349	Marionette	INFO	Listening on port 65400
+1598455462669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598455508631	geckodriver	INFO	Listening on 127.0.0.1:65504
+1598455511660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofileEpQSXP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598455518067	Marionette	INFO	Listening on port 65512
+1598455518552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598455553269	geckodriver	INFO	Listening on 127.0.0.1:49234
+1598455556301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofileWQgCJy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598455562477	Marionette	INFO	Listening on port 49244
+1598455562631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598455667377	geckodriver	INFO	Listening on 127.0.0.1:49368
+1598455670404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofilei8mxfe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598455681834	Marionette	INFO	Listening on port 49377
+1598455682127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598455733778	Marionette	INFO	Stopped listening on port 49377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598455783757	geckodriver	INFO	Listening on 127.0.0.1:49465
+1598455786784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofileZH6l74"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598455791477	Marionette	INFO	Listening on port 49474
+1598455791585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598455826056	geckodriver	INFO	Listening on 127.0.0.1:49516
+1598455829114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\J\\AppData\\Local\\Temp\\rust_mozprofilec1UMl2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598455834175	Marionette	INFO	Listening on port 49524
+1598455834430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/humbledoor/wishlist, line 2035: TypeError: document.querySelector(...) is null
+1598455841818	Marionette	INFO	Stopped listening on port 49524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

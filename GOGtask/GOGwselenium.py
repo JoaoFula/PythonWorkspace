@@ -42,10 +42,7 @@ def process_data(driver):
   allPrices = []
   totalPrice = 0
   for page in range(int(NumberOfPages)):
-    time.sleep(3) #works but not optimal, wait for the whole page to load otherwise it can't find game titles
-
-    #search for 
-    games = WebDriverWait(driver, 15).until(EC.presence_of_all_elements_located((By.CLASS_NAME, "product-title__text")))
+    games = WebDriverWait(driver, 20).until(EC.visibility_of_all_elements_located((By.XPATH, "//span[@class = 'product-title__text'][@ng-bind = '::product.title']")))
     # Add each game title as a string to the allGames list
     for game in games:
       allGames.append(game.text)
@@ -68,6 +65,7 @@ def process_data(driver):
     except:
       continue
   #totalPrice = sum(allPrices)
+  driver.quit()
   return avatarLinks, allGames, allPrices, totalPrice
 
 # Save the avatar links, the games and prices and the total price as dictionaries into a json file
