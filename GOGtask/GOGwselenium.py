@@ -12,18 +12,18 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
+# Initiate webdriver to use with Firefox, use a different driver to use with a different browser.
 options = Options()
 options.add_argument("start-maximized")
 options.add_argument('disable-infobars')
 driver=webdriver.Firefox(executable_path='C:\Joao\gecko\geckodriver.exe')
+
 
 def get_driver(username):
   # This username is concatenated into the url and the request is made to find its wishlist
   url = "https://www.gog.com/u/"+username+"/wishlist"
   driver.get(url)
   return driver
-    
-
     
 
 def process_data(driver):
@@ -81,7 +81,6 @@ def save_json_file(avatarLinks, games, prices, totalPrice):
       json.dump(numbers, outfile)
       json.dump(data, outfile)
       json.dump(FinalPrice, outfile)
-        
 
 
 def main():
