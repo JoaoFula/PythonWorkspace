@@ -1,7 +1,4 @@
-#!/usr/local/bin python3
-import requests
-from bs4 import BeautifulSoup
-import re
+#!/usr/local/bin/python3
 from decimal import *
 import json
 from selenium import webdriver
@@ -10,15 +7,25 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+import sys
 
 
 # Initiate webdriver to use with Firefox, use a different driver to use with a different browser.
-driver=webdriver.Firefox(executable_path='usr/local/bin/geckodriver.exe')
+try:
+  driver=webdriver.Firefox()
+except:
+  path = input('geckodriver is not in your path, please type the path to the geckodriver executable: ')
+  driver=webdriver.Firefox(executable_path=path)
 
-
-def get_driver(username):
-  # This username is concatenated into the url and the request is made to find its wishlist
-  url = "https://www.gog.com/u/"+username+"/wishlist"
+def get_driver():
+  # The username is concatenated into the url and the request is made to find its wishlist.
+  # username is obtained as the first argument called
+  try:
+    url = "https://www.gog.com/u/"+sys.argv[1]+"/wishlist"
+  except:
+    username = input("please type a username: ")
+    url = "https://www.gog.com/u/"+username+"/wishlist"
   driver.get(url)
   return driver
     
@@ -67,20 +74,17 @@ def process_data(driver):
 
 # Save the avatar links, the games and prices and the total price as dictionaries into a json file
 def save_json_file(avatar_links, games, prices, total_price):
-  avatars = {'avatarLinks': avatar_links}
+  avatars = {'Avatar links': avatar_links}
   numbers = {'Total number of games': len(games)}
   data = dict(zip(games, prices))
-  FinalPrice = {'Total price': str(total_price)}
+  final_price = {'Total price': str(total_price)}
+  final_list = [avatars, numbers, data, final_price]
   with open('data.json', 'w') as outfile:
-      json.dump(avatars, outfile)
-      json.dump(numbers, outfile)
-      json.dump(data, outfile)
-      json.dump(FinalPrice, outfile)
+      json.dump(final_list, outfile, sort_keys=True, indent=4)
 
 
 def main():
-  username = input('Type the username: ')
-  driver = get_driver(username)
+  driver = get_driver()
   avatar_links, games, prices, total_price = process_data(driver)
   save_json_file(avatar_links, games, prices, total_price)
 

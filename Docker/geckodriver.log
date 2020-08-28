@@ -1,0 +1,100 @@
+1598606211571	geckodriver	INFO	Listening on 127.0.0.1:59759
+1598606212575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4C8YB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598606217074	Marionette	INFO	Listening on port 32785
+1598606217097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598606328654	geckodriver	INFO	Listening on 127.0.0.1:55793
+1598606328661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek96c6Z"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598606332871	Marionette	INFO	Listening on port 42747
+1598606332890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/humbledoor/wishlist, line 2035: TypeError: document.querySelector(...) is null
+1598606337721	Marionette	INFO	Stopped listening on port 42747
+1598606358619	geckodriver	INFO	Listening on 127.0.0.1:60663
+1598606358630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelWNNlu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598606363126	Marionette	INFO	Listening on port 35839
+1598606363168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598606394061	Marionette	INFO	Stopped listening on port 35839
+1598606405313	Marionette	INFO	Stopped listening on port 32785
+1598606429682	geckodriver	INFO	Listening on 127.0.0.1:42721
+1598606429692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZa8C93"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598606433975	Marionette	INFO	Listening on port 39625
+1598606434097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598606463890	Marionette	INFO	Stopped listening on port 39625
+1598606632966	geckodriver	INFO	Listening on 127.0.0.1:41851
+1598606632973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexszJxA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598606636987	Marionette	INFO	Listening on port 39955
+1598606637090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598606666963	Marionette	INFO	Stopped listening on port 39955
+1598606673916	geckodriver	INFO	Listening on 127.0.0.1:53167
+1598606673926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezl95PK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598606678018	Marionette	INFO	Listening on port 42847
+1598606678051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2120: TypeError: document.querySelector(...) is null
+1598606713392	Marionette	INFO	Stopped listening on port 42847
+1598607103757	geckodriver	INFO	Listening on 127.0.0.1:59115
+1598607103763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePjeiDN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598607107455	Marionette	INFO	Listening on port 37669
+1598607107478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598607137772	Marionette	INFO	Stopped listening on port 37669
+1598607255899	geckodriver	INFO	Listening on 127.0.0.1:46771
+1598607255906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3hZSru"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598607259608	Marionette	INFO	Listening on port 43589
+1598607259628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598607290949	Marionette	INFO	Stopped listening on port 43589
+1598607329888	geckodriver	INFO	Listening on 127.0.0.1:43091
+1598607329897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA4tPWD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598607333422	Marionette	INFO	Listening on port 43783
+1598607333522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598607363072	Marionette	INFO	Stopped listening on port 43783
+1598607451263	geckodriver	INFO	Listening on 127.0.0.1:47379
+1598607451274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEAzjX6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598607454870	Marionette	INFO	Listening on port 35595
+1598607454894	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1598607491674	geckodriver	INFO	Listening on 127.0.0.1:60307
+1598607491685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileowr64A"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598607495095	Marionette	INFO	Listening on port 40483
+1598607495197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598607523104	Marionette	INFO	Stopped listening on port 40483
+1598607557363	geckodriver	INFO	Listening on 127.0.0.1:60431
+1598607557372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileweF4vG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1598607561050	Marionette	INFO	Listening on port 39205
+1598607561088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gog.com/u/Miraland/wishlist, line 2118: TypeError: document.querySelector(...) is null
+1598607590421	Marionette	INFO	Stopped listening on port 39205
